@@ -4,9 +4,6 @@
 
 <p align="left">  
   
-  <a href="https://github.com/ajayxdodiya?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/ajayxdodiya?color=green&logo=github">
-  </a>
   <a href="https://github.com/ajayxdodiya/">
     <img src="https://komarev.com/ghpvc/?username=ajayxdodiya" alt="visitors" />
   </a>
