@@ -14,9 +14,9 @@
 
 - 🏢 I'm currently working at **[Gate6 Technologies India](https://gate6.com)**
 - ⚙️ I use daily: `.js`, `.ts`, `.html`, `.css`, `.scss`
-- 🌍 I'm mostly active within the **Javascript Community**
+<!--- - 🌍 I'm mostly active within the **Javascript Community** --->
 - 🌱 Learning all about **Javascript**
-- 📫 Reach me: [twitter.com/ajayxdodiya](https://twitter.com/ajayxdodiya)
+- 📫 Reach me: [instagram/ajayxdodiya](https://instagram.com/ajayxdodiya)
 - 📝 Checkout my [Resume](https://ajaydodiya.com/resume.html).
 
 #### My Current Stack
