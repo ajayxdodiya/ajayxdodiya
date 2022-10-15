@@ -72,7 +72,7 @@
 
 #### Work
 <p left="center">
-[https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=work-experience&username=ajayxdodiya&logos=true&branding=false](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=ajayxdodiya&branding=false)
+<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=work-experience&username=ajayxdodiya&logos=true&branding=false">
 </p>
 
 #### Portfolio
