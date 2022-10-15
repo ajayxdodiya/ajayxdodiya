@@ -8,7 +8,7 @@
     <img src="https://komarev.com/ghpvc/?username=ajayxdodiya" alt="visitors" />
   </a>
   <a href="https://github.com/ajayxdodiya/">
-    <img src="https://img.shields.io/github/last-commit/ajayxdodiya/ajayxdodiya.github.io?label=last%20update&style=plastic" alt="visitors" />
+    <img src="https://img.shields.io/github/last-commit/ajayxdodiya/ajayxdodiya.github.io?label=last%20update" alt="visitors" />
   </a>
 
 </p>
