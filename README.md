@@ -70,3 +70,13 @@
     </a> 
 </p>
 
+### Work
+<p left="center">
+<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=work-experience&username=ajayxdodiya&logos=true&branding=false" style="width: 500px"/>
+</p>
+
+### Portfolio
+<p left="center">
+<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=portfolio&username=ajayxdodiya&logos=true&branding=false" style="width: 500px"/>
+</p>
+
