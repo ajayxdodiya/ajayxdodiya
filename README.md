@@ -70,13 +70,4 @@
     </a> 
 </p>
 
-#### Work
-<p left="center">
-  ![Image](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=work-experience&username=ajayxdodiya&logos=true&branding=false)
-</p>
-
-#### Portfolio
-<p left="center">
-<img width="500" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=portfolio&username=ajayxdodiya&logos=true&branding=false">
-</p>
 
